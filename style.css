@@ -1,13 +1,13 @@
 body {
   text-align: center;
-  background-color: #b1dae7;
+  background-color: #e6edef;
 }
 
 h2 {
-  color: #485153;
+  color: #30bfdf;
   font-size: 400%;
 }
 
 p {
-  color: purple;
+  color: rgb(0, 105, 128);
 }
